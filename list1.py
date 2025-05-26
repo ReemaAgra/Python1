@@ -1,0 +1,9 @@
+l1=[2,4,7,8,9,12]
+print(l1)
+l2=["reema",45.7,7]
+print(l2)
+print(len(l1))
+print(l1[5])
+print(min(l1))
+l1.append(89)
+print(l1)
